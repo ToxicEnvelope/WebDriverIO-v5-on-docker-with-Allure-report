@@ -43,7 +43,7 @@
     "junit-viewer": "^4.11.1",
     "module-alias": "^2.2.0",
     "nodemailer": "^5.1.1",
-    "open": "^0.0.5",
+    "open": "^7.1.0",
     "rimraf": "^2.6.3",
     "simple-autoreload-server": "^0.2.7",
     "wdio-video-reporter": "^1.4.3",
