@@ -1,5 +1,5 @@
 # WebDriverIO-v5-on-docker-with-Allure-report
-========================
+
 
 Project for Webdriver IO v5 using [wdio-video-reporter](https://github.com/presidenten/wdio-video-reporter) and has a `docker-compose.yml` ready to spawn a selenium grid.
 
