@@ -54,7 +54,7 @@ Shut down the docker grid with command:
 How to
 ------
 
-1. Start the docker hub
+1. Start up docker hub
 - `docker-compose up -d`
 2. Build node dependenceis
 - `yarn`
@@ -62,4 +62,6 @@ How to
 - `yarn gui`
 4. Open Allure report
 - `yarn report`
+5. Shut down docker grid
+- `docker-compose down`
 
