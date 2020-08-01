@@ -19,7 +19,7 @@ describe('User Uploads New Image with Public ID and Validate Results - (E2E Scen
   
   it ('should verify that new ArticleImage uploaded, displayed at Grid and ArticleImageID is public', () => {
         
-    LoginPage.login("yahav.hoffmann@gmail.com", "Aa123456~.");
+    LoginPage.login(process.env.USER_NAME, process.env.USER_PASSOWRD);
     
     ConsolePage.clickOnMediaLibraryTab();
     
