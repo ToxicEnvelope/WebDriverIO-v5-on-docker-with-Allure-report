@@ -17,6 +17,15 @@ Install docker
 
 (Dont want docker? Follow this guide: https://webdriver.io/docs/selenium-standalone-service.html)
 
+Prerequisites
+-------------
+
+We use SYSTEM ENVIRONMENT VARIABLES across our framework for security reasons.
+You should add the following into your machine. (I assume we use Linux/Mac)
+
+`export USER_NAME="your.alis@domain.ext"`
+`export USER_PASSWORD="yourpassword"`
+
 
 Install dependencies
 --------------------
