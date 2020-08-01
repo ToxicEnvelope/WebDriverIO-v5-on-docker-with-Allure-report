@@ -56,7 +56,7 @@ How to
 
 1. Add SYSTEM ENV VARIABLES
 - `export USER_NAME="your.alias@domain.ext"`
-- `export USER_PASWORD="yourpassword"``
+- `export USER_PASWORD="yourpassword"`
 2. Start up docker hub
 - `docker-compose up -d`
 3. Build node dependenceis
