@@ -54,14 +54,17 @@ Shut down the docker grid with command:
 How to
 ------
 
-1. Start up docker hub
+1. Add SYSTEM ENV VARIABLES
+- `export USER_NAME="your.alias@domain.ext"`
+- `export USER_PASWORD="yourpassword"``
+2. Start up docker hub
 - `docker-compose up -d`
-2. Build node dependenceis
+3. Build node dependenceis
 - `yarn`
-3. Run GUI Test
+4. Run GUI Test
 - `yarn gui`
-4. Open Allure report
+5. Open Allure report
 - `yarn report`
-5. Shut down docker grid
+6. Shut down docker grid
 - `docker-compose down`
 
