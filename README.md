@@ -19,13 +19,10 @@ Install docker
 
 Prerequisites
 -------------
-
 We use SYSTEM ENVIRONMENT VARIABLES across our framework for security reasons.
 You should add the following into your machine. (I assume we use Linux/Mac)
-
-`export USER_NAME="your.alis@domain.ext"`
-`export USER_PASSWORD="yourpassword"`
-
+- `export USER_NAME="your.alis@domain.ext"`
+- `export USER_PASSWORD="yourpassword"`
 
 Install dependencies
 --------------------
